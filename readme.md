@@ -9,6 +9,7 @@
 - Windows Terminal + OhMyPosh
 - Windows Terminal + btop4win
 - Healthstats: Rainmeter (customized cantarell skin)
+- 
 ![dekstop:lates](desktop-040524.png "desktop-040524")
 
 ## curent build, setup and peripherals
