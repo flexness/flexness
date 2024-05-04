@@ -11,9 +11,9 @@
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
 
-- Windows Terminal + OhMyPosh
-- Windows Terminal + btop4win
-- Stats, clock & date: Rainmeter (customized cantarell skin)
+- terminal customization: OhMyPosh
+- terminal monitor: btop4win
+- desktop stats, clock/date: rainmeter (customized cantarell skin)
 - wallpaper: tba
 
 ## curent build, setup and peripherals
