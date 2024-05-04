@@ -1,4 +1,4 @@
-# init
+# init :bomb:
 
 <img src="mando-grogu-init.gif" alt="init" style="width:100vW;"/>
 
