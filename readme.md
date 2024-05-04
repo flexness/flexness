@@ -2,6 +2,7 @@
 
 <img src="mando-grogu-init.gif" alt="init" style="width:100vW;"/>
 
+## hints
 - :monkey: dealing with html/web since 56k modems
 - :art: customizing windows since litestep 
 - :hammer: min-maxing hardware since geforce4 ti 4200
@@ -10,6 +11,7 @@
 - 💾 dedicated gamer since doom 1
 - :vhs: movie junky
 - :cat2: cats are my cryptonite
+
 
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
