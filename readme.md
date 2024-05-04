@@ -1,6 +1,7 @@
 # void
 
 ![dekstop:lates](mando-grogu-init.gif "init")
+<img src="mando-grogu-init.gif" alt="init" style="width:100%;"/>
 
 - :monkey: dealing with html/web since 56k modems
 - :art: customizing windows since litestep 
