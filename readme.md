@@ -13,6 +13,8 @@
 
 :vhs: movie junky
 
+:cat2: cats are my cryptonite
+
 ## current desktop
 - Windows Terminal + OhMyPosh
 - Windows Terminal + btop4win
