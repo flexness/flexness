@@ -1,9 +1,10 @@
 # void
-- customizing windows since litestep 
-- dealing with html/web since 56k modems
-- dedicated gamer since doom 1
-- min-maxing hardware since geforce4 ti 4200
-- mechanical keyboard fanboy
+- :art: customizing windows since litestep 
+- :floppy_disk: dealing with html/web since 56k modems
+- :hammer: min-maxing hardware since geforce4 ti 4200
+- :honey_pot: mechanical keyboard fanboy
+- :headphones: addicted to hiphop
+- :floppy_disk: dedicated gamer since doom 1
 
 ## current desktop
 - Windows Terminal + OhMyPosh
