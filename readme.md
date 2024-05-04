@@ -1,4 +1,7 @@
 # void
+
+![dekstop:lates](mando-grogu-init.gif "init")
+
 - :monkey: dealing with html/web since 56k modems
 - :art: customizing windows since litestep 
 - :hammer: min-maxing hardware since geforce4 ti 4200
