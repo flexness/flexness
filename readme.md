@@ -9,7 +9,7 @@
 
 :headphones: addicted to hiphop
 
-💾: dedicated gamer since doom 1
+💾 dedicated gamer since doom 1
 
 :vhs: movie junky
 
