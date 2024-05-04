@@ -6,6 +6,9 @@
 - min-maxing hardware since geforce4 ti 4200
 
 ## current desktop
+- OhMyPosh
+- btop4win
+- Rainmeter (skin: cantarell; customized)
 ![dekstop:lates](desktop-040524.png "desktop-040524")
 
 ## curent build, setup and peripherals
