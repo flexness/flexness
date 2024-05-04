@@ -9,12 +9,12 @@
 - :cat2: cats are my cryptonite
 
 ## current desktop
+![dekstop:lates](desktop-040524.png "desktop-040524")
+
 - Windows Terminal + OhMyPosh
 - Windows Terminal + btop4win
 - Stats, clock & date: Rainmeter (customized cantarell skin)
 - wallpaper: tba
-  
-![dekstop:lates](desktop-040524.png "desktop-040524")
 
 ## curent build, setup and peripherals
 - CPU: AMD Ryzen 5 3600 + Arctic 240mm AiO
