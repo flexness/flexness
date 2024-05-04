@@ -6,8 +6,7 @@
 - :headphones: addicted to hiphop
 - 💾 dedicated gamer since doom 1
 - :vhs: movie junky
-
-:cat2: cats are my cryptonite
+- :cat2: cats are my cryptonite
 
 ## current desktop
 - Windows Terminal + OhMyPosh
