@@ -1,7 +1,7 @@
 # void
 :art: customizing windows since litestep 
 
-::monkey:: dealing with html/web since 56k modems
+:monkey: dealing with html/web since 56k modems
 
 :hammer: min-maxing hardware since geforce4 ti 4200
 
