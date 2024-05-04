@@ -9,7 +9,7 @@
 
 :headphones: addicted to hiphop
 
-:floppy_disk: dedicated gamer since doom 1
+:gun: dedicated gamer since doom 1
 
 :vhs: movie junky
 
