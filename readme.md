@@ -1,6 +1,6 @@
 # void
-- :art: customizing windows since litestep 
 - :monkey: dealing with html/web since 56k modems
+- :art: customizing windows since litestep 
 - :hammer: min-maxing hardware since geforce4 ti 4200
 - :honey_pot: mechanical keyboard fanboy
 - :headphones: addicted to hiphop
