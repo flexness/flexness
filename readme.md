@@ -11,6 +11,8 @@
 
 :floppy_disk: dedicated gamer since doom 1
 
+:vhs: movie junky
+
 ## current desktop
 - Windows Terminal + OhMyPosh
 - Windows Terminal + btop4win
