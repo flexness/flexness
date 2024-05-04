@@ -5,4 +5,4 @@
 - dedicated gamer since doom 1
 
 ## current desktop
-- 
+- ![dekstop:lates](desktop-040524.png "desktop-040524")
