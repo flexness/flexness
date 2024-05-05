@@ -10,7 +10,7 @@ $$
 
 ## hints
 - :monkey: digging into html/web [..] since 56k modems
-- :hammer: min-maxing pc-builds since geforce4 ti 4200
+- :hammer: crafting and mainting pc-builds since geforce4 ti 4200
 - :art: customizing windows since litestep 
 - :honey_pot: mechanical keyboard fanboy
 - 💾 dedicated gamer since doom 1
