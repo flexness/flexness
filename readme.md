@@ -19,19 +19,19 @@ $$
 ## knowledge/xp
 | Segment    | Indicator | Synergy/Keywords |
 | ---------- | --------- | -------- |
-| HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | HTMX |
-| CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)     | SASS/SCSS, Bootstrap, Tailwind |
-| JS    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | NodeJS, Express, Vue |
-| PHP    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | - |
-| Python    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | Flask |
-| DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | Git, Docker, Vercel, Render |
-| UI Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | Figma |
-| Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | MySQL, SQLite  |
-| XML    | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=0BDA51)    | XRechnung |
-| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=0BDA51)    | - |
-| Linux    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=0BDA51)    | - |
-| CMD/Terminal    | ![](https://geps.dev/progress/40?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=0BDA51)    | - |
-| (headless) CMS    | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=0BDA51)    | Wordpress, Kirby, Storyblok, Tina |
+| HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX |
+| CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
+| JS    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, Express, Vue |
+| PHP    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
+| Python    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Flask |
+| DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
+| UI Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma |
+| Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | MySQL, SQLite  |
+| XML    | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
+| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
+| Linux    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
+| CMD/Terminal    | ![](https://geps.dev/progress/40?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
+| (headless) CMS    | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, Tina |
 
 *work in progress*
 
