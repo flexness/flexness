@@ -10,7 +10,7 @@ $$
 $$
 ```
 $$
-{{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\ \linebreak
+{{\color{Goldenrod}\Huge{ \texttt{ Snippet \linebreak \}}}}\ 
 {{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 $$
 
