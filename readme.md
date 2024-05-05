@@ -10,7 +10,7 @@ $$
 
 temp: 
 
-${{\color{Goldenrod}\Small{ \texttt{ Snippet \}}}}\$
+${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
 
 ## hints
 - :monkey: dealing with digging into html/web since 56k modems
