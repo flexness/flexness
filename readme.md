@@ -4,7 +4,7 @@
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
 </p>
 
-${{\color{Goldenrod}\Huge{ \texttt{ \raggedright ...\ initialising\ symbiosis\ ...\ \}}}}\$
+${{\color{Goldenrod}\Huge{ \texttt{ ...\ initialising\ symbiosis\ ...\raggedright \}}}}\$
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
