@@ -2,7 +2,7 @@
 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
- <figcaption align="right"><i>Initialising symbiosis ...</i></figcaption>
+ ><i>Initialising symbiosis ...</i>
 </p>
  
 ## hints
