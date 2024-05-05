@@ -17,19 +17,20 @@ $$
 - :cat2: cats are my cryptonite
 
 ## knowledge
-| Segment    | Indicator |
-| ---------- | --------- |
-| HTML  | ![](https://geps.dev/progress/80)    |
-| CSS | ![](https://geps.dev/progress/70)     |
-| JS    | ![](https://geps.dev/progress/60)    |
-| Python    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    |
-| DevOps    | ![](https://geps.dev/progress/50)    |
-| UI Prototyping    | ![](https://geps.dev/progress/70)    |
-| Databases/ORMs    | ![](https://geps.dev/progress/40)    |
-| XML    | ![](https://geps.dev/progress/50)    |
-| Windows    | ![](https://geps.dev/progress/80)    |
-| Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    |
-| CMD/Terminal    | ![](https://geps.dev/progress/40)    |
+| Segment    | Indicator | Keywords |
+| ---------- | --------- | -------- |
+| HTML  | ![](https://geps.dev/progress/80)    | - |
+| CSS | ![](https://geps.dev/progress/70)     | SASS/SCSS, Bootstrap, Tailwind |
+| JS    | ![](https://geps.dev/progress/60)    | NodeJS, Express, Vue |
+| Python    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | Flask, |
+| DevOps    | ![](https://geps.dev/progress/50)    | Git, Docker, SaaS Deployment |
+| UI Prototyping    | ![](https://geps.dev/progress/70)    | Figma
+| Databases/ORMs    | ![](https://geps.dev/progress/40)    | MySQL, SQLite  |
+| XML    | ![](https://geps.dev/progress/50)    | - |
+| Windows    | ![](https://geps.dev/progress/80)    | - |
+| Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | - |
+| CMD/Terminal    | ![](https://geps.dev/progress/40)    | -
+| (headliess) CMS    | ![](https://geps.dev/progress/60)    | Wordpress, Kirby, Storyblok, Tina |
 
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
