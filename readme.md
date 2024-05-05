@@ -42,8 +42,7 @@ $$
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
 ## env
-- Obsidian
-- ...
+- tba
 
 ## curent build and peripherals
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
