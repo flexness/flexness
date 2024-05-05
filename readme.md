@@ -5,7 +5,7 @@
 $${\color{red}... initialising symbiosis ...}$$ 
 </p>
  </i></b>
-
+$${\color{red}Red}$$	
 ## hints
 - :monkey: dealing with html/web since 56k modems
 - :hammer: min-maxing hardware since geforce4 ti 4200
