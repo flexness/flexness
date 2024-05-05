@@ -1,7 +1,7 @@
 # init :globe_with_meridians:
 <figure>
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
- <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+ <figcaption>*A single track trail outside of Albuquerque, New Mexico.*</figcaption>
 </figure>
  
 ## hints
