@@ -17,6 +17,7 @@ $$
 - :cat2: cats are my cryptonite
 
 ## knowledge
+*word in progress*
 | Segment    | Indicator | Keywords |
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80)    | HTMX |
@@ -32,6 +33,7 @@ $$
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | - |
 | CMD/Terminal    | ![](https://geps.dev/progress/40)    | - |
 | (headless) CMS    | ![](https://geps.dev/progress/60)    | Wordpress, Kirby, Storyblok, Tina |
+
 
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
