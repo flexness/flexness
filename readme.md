@@ -32,6 +32,7 @@ $$
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | - |
 | CMD/Terminal    | ![](https://geps.dev/progress/40)    | - |
 | (headless) CMS    | ![](https://geps.dev/progress/60)    | Wordpress, Kirby, Storyblok, Tina |
+
 *work in progress*
 
 
