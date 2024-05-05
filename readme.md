@@ -33,9 +33,14 @@ $${\color{orange}... \space initialising \space symbiosis \space ...}$$
 - **M2**: WD SN750, Samsung 990 Pro
 - **PSU**: 
 - **CASE**: CM Qube 500
-- **SCREEN1**: 
-- **SCREEN2**:
-- 
+- **SCREEN1**: ASUS TUF VG249Q
+- **SCREEN2**: BenQ GL2580H
+- **KEYBOARD**: Ducky Mecha SF
+- **MOUSE**: Steeelseries Aerox 3 WL
+- **DESKMAT**:
+- **HEADSET**: Corsair HS80 WL
+- **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
+- **MONITOR-ARMS**: Arctic X1-3D
 
 ## environment
 tbc
