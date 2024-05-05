@@ -9,13 +9,11 @@ $$
 $$
 
 ## hints
-- :monkey: dealing with digging into html/web since 56k modems
+- :monkey: digging into html/web since 56k modems
 - :hammer: min-maxing hardware since geforce4 ti 4200
 - :art: customizing windows since litestep 
 - :honey_pot: mechanical keyboard fanboy
-- :headphones: addicted to hiphop
 - 💾 dedicated gamer since doom 1
-- :vhs: cinephile movie junky
 - :cat2: cats are my cryptonite
 
 ## current desktop
@@ -45,3 +43,7 @@ $$
 
 ## environment
 tbc
+
+## temp
+- :headphones: addicted to hiphop
+- :vhs: cinephile 
