@@ -6,9 +6,6 @@
 
 ${{\color{Goldenrod}\Huge{\textsf{ ...\ initialising\ symbiosis\ ...\  \}}}}\$
 
-${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
-
-
 ## hints
 - :monkey: dealing with html/web since 56k modems
 - :hammer: min-maxing hardware since geforce4 ti 4200
