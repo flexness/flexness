@@ -20,7 +20,6 @@ temp: ${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
 - :vhs: cinephile movie junky
 - :cat2: cats are my cryptonite
 
-
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
 
