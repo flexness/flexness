@@ -1,4 +1,4 @@
-# init :globe_with_meridians:
+# :globe_with_meridians: init
 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
