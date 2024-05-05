@@ -29,7 +29,7 @@ $$
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
 | Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
 | SAP/ERP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IDP/IAS, BAS, Cloud Fondry |
-| XML    | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
+| XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
 | Consumer Hardware    | ![](https://geps.dev/progress/90?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Misc    | ![](https://geps.dev/progress/?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | HUGO, Markdown |
 
