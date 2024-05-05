@@ -22,7 +22,8 @@ $$
 | HTML  | ![](https://geps.dev/progress/80)    |
 | CSS | ![](https://geps.dev/progress/70)     |
 | JS    | ![](https://geps.dev/progress/60)    |
-| DEVOPS    | ![](https://geps.dev/progress/50)    |
+| Python    | ![](https://geps.dev/progress/20)    |
+| DevOps    | ![](https://geps.dev/progress/50)    |
 | UI Prototyping    | ![](https://geps.dev/progress/70)    |
 | Databases/ORMs    | ![](https://geps.dev/progress/40)    |
 | XML    | ![](https://geps.dev/progress/50)    |
