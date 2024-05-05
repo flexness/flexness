@@ -16,17 +16,6 @@ $$
 - 💾 dedicated gamer since doom 1
 - :cat2: cats are my cryptonite
 
-## knowledge
-- HTML ![](https://geps.dev/progress/90)
-- CSS ![](https://geps.dev/progress/80)
-- JS ![](https://geps.dev/progress/60)
-- DEVOPS ![](https://geps.dev/progress/50)
-- UI Prototyping ![](https://geps.dev/progress/70)
-- Databases ![](https://geps.dev/progress/40)
-- XML ![](https://geps.dev/progress/50)
-- Windows ![](https://geps.dev/progress/70)
-- Linux ![](https://geps.dev/progress/20)
-- 
 | Segment    | Indicator |
 | ---------- | --------- |
 | HTML  | ![](https://geps.dev/progress/80)    |
@@ -34,6 +23,7 @@ $$
 | JS    | ![](https://geps.dev/progress/60)    |
 | DEVOPS    | ![](https://geps.dev/progress/50)    |
 | UI Prototyping    | ![](https://geps.dev/progress/70)    |
+| Databases/ORMs    | ![](https://geps.dev/progress/40)    |
 | XML    | ![](https://geps.dev/progress/50)    |
 | Windows    | ![](https://geps.dev/progress/80)    |
 | Linux    | ![](https://geps.dev/progress/20)    |
