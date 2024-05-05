@@ -45,19 +45,22 @@ $$
 ## curent build and peripherals
 
 <table>
- <th>1</th>
- <th>2</th>
- <tr><td>1</td><td>2</td></tr>
- <tr><td>3</td><td>4</td></tr>
-</table>
-
-- **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
+ <th>Build</th>
+ <th>Peripherals</th>
+ <tr>
+  <td>
+  - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
 - **MB**: Gigabyte Aorus B450 Pro
 - **RAM**: Corsair Vengeance DDR4 3200, 2x8
 - **GPU**: XFX 6600 XT SWFT
 - **M2**: WD SN750, Samsung 990 Pro
 - **PSU**: BQ Pure Power 11 CM 650W
-- **CASE**: CM Qube 500
+- **CASE**: CM Qube 500 
+  </td><td>2</td></tr>
+ <tr><td>3</td><td>4</td></tr>
+</table>
+
+
 - **SCREEN1**: ASUS TUF VG249Q
 - **SCREEN2**: BenQ GL2580H
 - **KEYBOARD**: Ducky Mecha SF
