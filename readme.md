@@ -11,7 +11,7 @@ $$
 ## hints
 - :monkey: digging into html/web [..] since 56k modems
 - :hammer: crafting and mainting pc-builds since geforce4 ti 4200
-- :art: customizing windows since litestep 
+- :art: customizing windows since win95 and litestep 
 - :honey_pot: mechanical keyboard fanboy
 - 💾 dedicated gamer since doom 1
 - :cat2: cats are my cryptonite
