@@ -17,7 +17,7 @@ $$
 - :cat2: cats are my cryptonite
 
 ## knowledge
-*word in progress*
+*work in progress*
 | Segment    | Indicator | Keywords |
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80)    | HTMX |
