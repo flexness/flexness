@@ -2,10 +2,10 @@
 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
- $${\color{red}<b><i>... initialising symbiosis ...</i></b>}$$
 </p>
  
- $${\color{red}}$$
+ $${\color{red}<b><i>... initialising symbiosis ...</i></b>}$$
+
 ## hints
 - :monkey: dealing with html/web since 56k modems
 - :hammer: min-maxing hardware since geforce4 ti 4200
