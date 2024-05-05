@@ -12,7 +12,7 @@ $${{\color{Goldenrod}\Huge{ \texttt{ Snippet  \}}}}\$$
 ```bash
 ${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
 ```
-$${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$$
+${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
 
 ### text block
 ```bash
