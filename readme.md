@@ -21,7 +21,7 @@ $$
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX, Jinja |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
-| JS    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, Express, Vue |
+| JS    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, Express, Vue, jQuery |
 | PHP    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
 | Python    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Flask, Jinja |
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
