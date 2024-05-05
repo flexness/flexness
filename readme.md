@@ -29,7 +29,7 @@ $$
 | Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=097969&warningColor=097969&successColor=097969)    | MySQL, SQLite  |
 | XML    | ![](https://geps.dev/progress/50?dangerColor=AFE1AF?dangerColor=097969&warningColor=097969&successColor=097969)    | XRechnung |
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=AFE1AF?dangerColor=097969&warningColor=097969&successColor=097969)    | - |
-| Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900?dangerColor=097969&warningColor=097969&successColor=097969)    | - |
+| Linux    | ![](https://geps.dev/progress/20?dangerColor=097969&warningColor=097969&successColor=097969)    | - |
 | CMD/Terminal    | ![](https://geps.dev/progress/40?dangerColor=AFE1AF?dangerColor=097969&warningColor=097969&successColor=097969)    | - |
 | (headless) CMS    | ![](https://geps.dev/progress/60?dangerColor=AFE1AF?dangerColor=097969&warningColor=097969&successColor=097969)    | Wordpress, Kirby, Storyblok, Tina |
 
