@@ -43,6 +43,14 @@ $$
 - tba
 
 ## curent build and peripherals
+
+<table>
+ <th>1</th>
+ <th>2</th>
+ <tr>1</tr>
+ <tr>2</tr>
+</table>
+
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
 - **MB**: Gigabyte Aorus B450 Pro
 - **RAM**: Corsair Vengeance DDR4 3200, 2x8
