@@ -22,7 +22,7 @@ $$
 | HTML  | ![](https://geps.dev/progress/80?dangerColor=AFE1AF?warningColor=AFE1AF)    | HTMX |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=AFE1AF)     | SASS/SCSS, Bootstrap, Tailwind |
 | JS    | ![](https://geps.dev/progress/60?dangerColor=AFE1AF)    | NodeJS, Express, Vue |
-| PHP    | ![](https://geps.dev/progress/30?dangerColor=AFE1AF)    | - |
+| PHP    | ![](https://geps.dev/progress/30?dangerColor=AFE1AF?warningColor=AFE1AF)    | - |
 | Python    | ![](https://geps.dev/progress/20?dangerColor=AFE1AF)    | Flask |
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=AFE1AF)    | Git, Docker, Vercel, Render |
 | UI Prototyping    | ![](https://geps.dev/progress/70)    | Figma |
