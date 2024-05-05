@@ -32,13 +32,13 @@ $$
 - **RAM**: Corsair Vengeance DDR4 3200, 2x8
 - **GPU**: XFX 6600 XT SWFT
 - **M2**: WD SN750, Samsung 990 Pro
-- **PSU**: 
+- **PSU**: BQ Pure Power 11 CM 650W
 - **CASE**: CM Qube 500
 - **SCREEN1**: ASUS TUF VG249Q
 - **SCREEN2**: BenQ GL2580H
 - **KEYBOARD**: Ducky Mecha SF
 - **MOUSE**: Steeelseries Aerox 3 WL
-- **DESKMAT**:
+- **DESKMAT**: Corsair MM350 PRO
 - **HEADSET**: Corsair HS80 WL
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
 - **MONITOR-ARMS**: Arctic X1-3D
