@@ -4,7 +4,9 @@
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
 </p>
 
-$${\color{orange}... \space initialising \space symbiosis \space ...}$$	
+$${{\color{orange}\Huge{\textsf {... \space initialising \space symbiosis \space ...}$$	
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
+
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
