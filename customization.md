@@ -9,7 +9,9 @@ $${{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\$$
 $${{\color{Goldenrod}\Huge{ \texttt{ Snippet  \}}}}\$$
 
 ### single text
-`${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$`
+```bash
+${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
+```
 $${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$$
 
 ### text block
