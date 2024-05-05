@@ -19,18 +19,18 @@ $$
 ## knowledge
 | Segment    | Indicator | Keywords |
 | ---------- | --------- | -------- |
-| HTML  | ![](https://geps.dev/progress/80)    | - |
+| HTML  | ![](https://geps.dev/progress/80)    | HTMX |
 | CSS | ![](https://geps.dev/progress/70)     | SASS/SCSS, Bootstrap, Tailwind |
 | JS    | ![](https://geps.dev/progress/60)    | NodeJS, Express, Vue |
-| Python    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | Flask, |
-| DevOps    | ![](https://geps.dev/progress/50)    | Git, Docker, SaaS Deployment |
-| UI Prototyping    | ![](https://geps.dev/progress/70)    | Figma
+| Python    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | Flask |
+| DevOps    | ![](https://geps.dev/progress/50)    | Git, Docker, Vercel, Render |
+| UI Prototyping    | ![](https://geps.dev/progress/70)    | Figma |
 | Databases/ORMs    | ![](https://geps.dev/progress/40)    | MySQL, SQLite  |
-| XML    | ![](https://geps.dev/progress/50)    | - |
+| XML    | ![](https://geps.dev/progress/50)    | XRechnung |
 | Windows    | ![](https://geps.dev/progress/80)    | - |
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | - |
-| CMD/Terminal    | ![](https://geps.dev/progress/40)    | -
-| (headliess) CMS    | ![](https://geps.dev/progress/60)    | Wordpress, Kirby, Storyblok, Tina |
+| CMD/Terminal    | ![](https://geps.dev/progress/40)    | - |
+| (headless) CMS    | ![](https://geps.dev/progress/60)    | Wordpress, Kirby, Storyblok, Tina |
 
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
@@ -38,7 +38,8 @@ $$
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
 ## env
-- tbc
+- Obsidian
+- ...
 
 ## curent build and peripherals
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
