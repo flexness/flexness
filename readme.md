@@ -19,10 +19,13 @@ $$
 ## knowledge
 - HTML ![](https://geps.dev/progress/90)
 - CSS ![](https://geps.dev/progress/80)
-- JS ![](https://geps.dev/progress/80)
+- JS ![](https://geps.dev/progress/60)
 - DEVOPS ![](https://geps.dev/progress/50)
 - UI Prototyping ![](https://geps.dev/progress/70)
 - Databases ![](https://geps.dev/progress/40)
+- XML ![](https://geps.dev/progress/50)
+- Windows ![](https://geps.dev/progress/70)
+- Linux ![](https://geps.dev/progress/20)
 
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
