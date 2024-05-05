@@ -17,7 +17,7 @@ $$
 - :cat2: cats are my cryptonite
 
 ## knowledge/xp
-| Segment    | Indicator | Keywords |
+| Segment    | Indicator | Synergy/Keywords |
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80?dangerColor=097969&warningColor=097969&successColor=097969)    | HTMX |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=097969&warningColor=097969&successColor=097969)     | SASS/SCSS, Bootstrap, Tailwind |
