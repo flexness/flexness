@@ -24,6 +24,9 @@ $$
 - desktop monitor, clock/date: rainmeter (customized cantarell skin)
 - wallpaper: tba
 
+## env
+- tbc
+
 ## curent build and peripherals
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
 - **MB**: Gigabyte Aorus B450 Pro
@@ -40,9 +43,6 @@ $$
 - **HEADSET**: Corsair HS80 WL
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
 - **MONITOR-ARMS**: Arctic X1-3D
-
-## environment
-tbc
 
 ## temp
 - :headphones: addicted to hiphop
