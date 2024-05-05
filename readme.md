@@ -29,6 +29,7 @@ $$
 | XML    | ![](https://geps.dev/progress/50)    |
 | Windows    | ![](https://geps.dev/progress/80)    |
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    |
+| CMD/Terminal    | ![](https://geps.dev/progress/60)    |
 
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
