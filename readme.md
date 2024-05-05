@@ -9,7 +9,7 @@
 - :honey_pot: mechanical keyboard fanboy
 - :headphones: addicted to hiphop
 - 💾 dedicated gamer since doom 1
-- :vhs: movie junky
+- :vhs: cinephile movie junky
 - :cat2: cats are my cryptonite
 
 
