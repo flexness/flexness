@@ -9,7 +9,7 @@ $${\color{red}... initialising symbiosis ...}$$
 </p>
  </i></b>
  
-$${\color{orange}... initialising symbiosis ...}$$	
+$${\color{orange}... \space initialising \space symbiosis \space ...}$$	
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
