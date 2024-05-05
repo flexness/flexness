@@ -2,9 +2,11 @@
 
 ## LaTeX 
 
-### centered block text
+### centered text
 ```bash
 $$
+{{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
+
 {{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 $$
 ```
