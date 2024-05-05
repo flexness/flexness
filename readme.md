@@ -21,14 +21,14 @@ $$
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX, Jinja |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
+| UI Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, FontAwesome |
 | JS    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, Express, Vue, jQuery |
 | Python    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Flask, Jinja |
+| Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | MySQL, SQLite  |
+| CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, Tina |
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
 | Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
-| UI Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, FontAwesome |
-| Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | MySQL, SQLite  |
-| SAP/ERP    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IDP/IAS, BAS, Cloud Fondry |
-| CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, Tina |
+| SAP/ERP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IDP/IAS, BAS, Cloud Fondry |
 | XML    | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
 | Consumer Hardware    | ![](https://geps.dev/progress/90?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Misc    | ![](https://geps.dev/progress/?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | HUGO, Markdown |
@@ -40,8 +40,9 @@ $$
 
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
-## env
-- tba
+## core env
+- win11 + winget
+- 
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
