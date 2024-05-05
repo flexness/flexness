@@ -4,8 +4,8 @@
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
-- :art: customizing windows since litestep 
 - :hammer: min-maxing hardware since geforce4 ti 4200
+- :art: customizing windows since litestep 
 - :honey_pot: mechanical keyboard fanboy
 - :headphones: addicted to hiphop
 - 💾 dedicated gamer since doom 1
