@@ -16,6 +16,9 @@ $$
 - 💾 dedicated gamer since doom 1
 - :cat2: cats are my cryptonite
 
+## knowledge
+- ![](https://geps.dev/progress/10)
+
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
 
