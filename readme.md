@@ -16,7 +16,7 @@ $$
 - 💾 dedicated gamer since doom 1
 - :cat2: cats are my cryptonite
 
-## knowledge
+## knowledge/xp
 | Segment    | Indicator | Keywords |
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80)    | HTMX |
