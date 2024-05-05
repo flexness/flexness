@@ -1,7 +1,7 @@
 # init :globe_with_meridians:
 
 <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
-<figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+*Initializing symbiosis ...*
  
 ## hints
 - :monkey: dealing with html/web since 56k modems
