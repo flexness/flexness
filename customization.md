@@ -1,3 +1,3 @@
 # notes for markdown/github customization
 
-${{\color{Goldenrod}\Small{ \texttt{ Snippet \}}}}\$
+${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
