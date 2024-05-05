@@ -19,7 +19,7 @@ $$
 ## knowledge/xp
 | Segment    | Indicator | Keywords |
 | ---------- | --------- | -------- |
-| HTML  | ![](https://geps.dev/progress/80?dangerColor=AFE1AF&warningColor=AFE1AF&successColor=AFE1AF)    | HTMX |
+| HTML  | ![](https://geps.dev/progress/80?dangerColor=097969&warningColor=097969&successColor=097969)    | HTMX |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=AFE1AF)     | SASS/SCSS, Bootstrap, Tailwind |
 | JS    | ![](https://geps.dev/progress/60?dangerColor=AFE1AF)    | NodeJS, Express, Vue |
 | PHP    | ![](https://geps.dev/progress/30?dangerColor=AFE1AF?warningColor=AFE1AF)    | - |
