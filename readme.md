@@ -14,7 +14,7 @@ $$
 - :art: customizing windows since win95 and litestep 
 - :honey_pot: mechanical keyboard enthusiast
 - 💾 dedicated gamer since doom 1
-- :cat2: cats are my cryptonite
+- :cat2: are my cryptonite
 
 ## knowledge/xp
 | Segment    | Indicator | Synergy/Keywords |
