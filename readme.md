@@ -2,9 +2,9 @@
 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
-${{\color{Goldenrod}\Huge{\texttt{ ...\ initialising\ symbiosis\ ...\  \}}}}\$
 </p>
 
+${{\color{Goldenrod}\Huge{\texttt{ ...\ initialising\ symbiosis\ ...\  \}}}}\$
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
