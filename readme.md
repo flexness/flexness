@@ -22,6 +22,7 @@ $$
 | HTML  | ![](https://geps.dev/progress/80)    | HTMX |
 | CSS | ![](https://geps.dev/progress/70)     | SASS/SCSS, Bootstrap, Tailwind |
 | JS    | ![](https://geps.dev/progress/60)    | NodeJS, Express, Vue |
+| PHP    | ![](https://geps.dev/progress/30)    | - |
 | Python    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | Flask |
 | DevOps    | ![](https://geps.dev/progress/50)    | Git, Docker, Vercel, Render |
 | UI Prototyping    | ![](https://geps.dev/progress/70)    | Figma |
