@@ -2,7 +2,7 @@
 
 <figure>
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
- <figcaption><i>A single track trail outside of Albuquerque, New Mexico.</i></figcaption>
+ <figcaption><i>Initialising symbiosis...</i></figcaption>
 </figure>
  
 ## hints
