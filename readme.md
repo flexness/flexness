@@ -8,10 +8,8 @@ $$
 {{\color{Goldenrod}\Huge{ \texttt{ ...\ initialising\ symbiosis\ ... \}}}}\
 $$
 
-${{\color{Goldenrod}\texttt{ snip \}}}\$
-
 ## hints
-- :monkey: dealing with html/web since ${{\color{Goldenrod}\texttt{ web \}}}\$ 56k modems
+- :monkey: dealing with digging into html/web since ${{\color{Goldenrod}\texttt{ 56k \}}}\$ modems
 - :hammer: min-maxing hardware since geforce4 ti 4200
 - :art: customizing windows since litestep 
 - :honey_pot: mechanical keyboard fanboy
