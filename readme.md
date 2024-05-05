@@ -2,7 +2,7 @@
 
 <figure>
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
- <figcaption style='font-style: italic'>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+ <figcaption><i>A single track trail outside of Albuquerque, New Mexico.</i></figcaption>
 </figure>
  
 ## hints
