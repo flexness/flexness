@@ -1,3 +1,10 @@
+
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # :globe_with_meridians: init
 
 <p align="center">
