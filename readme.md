@@ -19,19 +19,19 @@ $$
 ## knowledge/xp
 | Segment    | Indicator | Keywords |
 | ---------- | --------- | -------- |
-| HTML  | ![](https://geps.dev/progress/80)    | HTMX |
-| CSS | ![](https://geps.dev/progress/70)     | SASS/SCSS, Bootstrap, Tailwind |
-| JS    | ![](https://geps.dev/progress/60)    | NodeJS, Express, Vue |
-| PHP    | ![](https://geps.dev/progress/30?dangerColor=ff9900)    | - |
-| Python    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | Flask |
-| DevOps    | ![](https://geps.dev/progress/50)    | Git, Docker, Vercel, Render |
+| HTML  | ![](https://geps.dev/progress/80?dangerColor=AFE1AF)    | HTMX |
+| CSS | ![](https://geps.dev/progress/70?dangerColor=AFE1AF)     | SASS/SCSS, Bootstrap, Tailwind |
+| JS    | ![](https://geps.dev/progress/60?dangerColor=AFE1AF)    | NodeJS, Express, Vue |
+| PHP    | ![](https://geps.dev/progress/30?dangerColor=AFE1AF)    | - |
+| Python    | ![](https://geps.dev/progress/20?dangerColor=AFE1AF)    | Flask |
+| DevOps    | ![](https://geps.dev/progress/50?dangerColor=AFE1AF)    | Git, Docker, Vercel, Render |
 | UI Prototyping    | ![](https://geps.dev/progress/70)    | Figma |
-| Databases/ORMs    | ![](https://geps.dev/progress/40)    | MySQL, SQLite  |
-| XML    | ![](https://geps.dev/progress/50)    | XRechnung |
-| Windows    | ![](https://geps.dev/progress/80)    | - |
+| Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=AFE1AF)    | MySQL, SQLite  |
+| XML    | ![](https://geps.dev/progress/50?dangerColor=AFE1AF)    | XRechnung |
+| Windows    | ![](https://geps.dev/progress/80?dangerColor=AFE1AF)    | - |
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=ff9900)    | - |
-| CMD/Terminal    | ![](https://geps.dev/progress/40)    | - |
-| (headless) CMS    | ![](https://geps.dev/progress/60)    | Wordpress, Kirby, Storyblok, Tina |
+| CMD/Terminal    | ![](https://geps.dev/progress/40?dangerColor=AFE1AF)    | - |
+| (headless) CMS    | ![](https://geps.dev/progress/60?dangerColor=AFE1AF)    | Wordpress, Kirby, Storyblok, Tina |
 
 *work in progress*
 
