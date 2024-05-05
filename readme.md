@@ -1,10 +1,10 @@
 # init :globe_with_meridians:
-
+<b><i> 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
-<b><i> $${\color{red}... initialising symbiosis ...}$$ </i></b>
+$${\color{red}... initialising symbiosis ...}$$ 
 </p>
- 
+ </i></b>
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
