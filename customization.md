@@ -7,10 +7,10 @@
 $$
 {{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 
-{{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 $$
 ```
 $$
+{{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 {{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 $$
 
