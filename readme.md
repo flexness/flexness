@@ -18,7 +18,7 @@
 
 - terminal customization: OhMyPosh
 - terminal monitor: btop4win
-- desktop stats, clock/date: rainmeter (customized cantarell skin)
+- desktop monitor, clock/date: rainmeter (customized cantarell skin)
 - wallpaper: tba
 
 ## curent build, setup and peripherals
