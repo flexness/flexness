@@ -4,7 +4,8 @@
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
 </p>
 
-$${{\color{orange}\Huge{\textsf {... \space initialising \space symbiosis \space ...}$$	
+${{\color{Goldenrod}\Huge{\textsf{ ...\ initialising\ symbiosis\ ...\  \}}}}\$
+
 ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
 
 
