@@ -19,10 +19,7 @@ $$
 ## current desktop
 ![dekstop:lates](desktop-040524.png "desktop-040524")
 
-- terminal customization: OhMyPosh
-- terminal monitor: btop4win
-- desktop monitor, clock/date: rainmeter (customized cantarell skin)
-- wallpaper: tba
+- OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
 ## env
 - tbc
