@@ -47,8 +47,8 @@ $$
 <table>
  <th>1</th>
  <th>2</th>
- <tr>1</tr>
- <tr>2</tr>
+ <tr><td>1</td><td>2</td></tr>
+ <tr><td>3</td><td>4</td></tr>
 </table>
 
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
