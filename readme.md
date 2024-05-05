@@ -24,7 +24,7 @@ $$
 - desktop monitor, clock/date: rainmeter (customized cantarell skin)
 - wallpaper: tba
 
-## curent build, setup and peripherals
+## curent build and peripherals
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
 - **MB**: Gigabyte Aorus B450 Pro
 - **RAM**: Corsair Vengeance DDR4 3200, 2x8
