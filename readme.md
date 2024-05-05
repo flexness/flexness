@@ -9,7 +9,7 @@ $$
 $$
 
 ## hints
-- :monkey: digging into html/web `[ ]` since 56k modems
+- :monkey: digging into html/web [ ] since 56k modems
 - :hammer: min-maxing hardware since geforce4 ti 4200
 - :art: customizing windows since litestep 
 - :honey_pot: mechanical keyboard fanboy
