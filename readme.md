@@ -1,6 +1,6 @@
 # init :globe_with_meridians:
 
-<img src="mando-grogu-init.gif" alt="init" style="width:100vW; border:2px"/>
+<img src='mando-grogu-init.gif" alt="init" style="width:100vW; border:2px'/>
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
