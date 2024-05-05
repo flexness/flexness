@@ -5,11 +5,11 @@
 ### centered block text
 ```bash
 $$
-{{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\
+{{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 $$
 ```
 $$
-{{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\
+{{\color{Goldenrod}\Huge{ \texttt{ Snippet \}}}}\
 $$
 
 ### single text
