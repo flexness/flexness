@@ -1,6 +1,6 @@
 # init :globe_with_meridians:
 
-<figure>
+<figure align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
  <figcaption align="right"><i>Initialising symbiosis ...</i></figcaption>
 </figure>
