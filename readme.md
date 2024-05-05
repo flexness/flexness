@@ -2,9 +2,9 @@
 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
+<b><i> $${\color{red}... initialising symbiosis ...}$$ </i></b>
 </p>
  
-$${\color{red}<b><i>... initialising symbiosis ...</i></b>}$$
 
 ## hints
 - :monkey: dealing with html/web since 56k modems
