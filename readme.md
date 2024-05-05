@@ -1,5 +1,9 @@
 # init :globe_with_meridians:
- 
+
+<p align="center">
+ <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
+</p>
+
 $${\color{orange}... \space initialising \space symbiosis \space ...}$$	
 
 ## hints
