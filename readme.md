@@ -2,7 +2,8 @@
 
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
- <b><i>... initialising symbiosis ...</i></b>
+ 
+ $${\color{red}<b><i>... initialising symbiosis ...</i></b>}$$
 </p>
  
 ## hints
