@@ -8,9 +8,7 @@ $$
 {{\color{Goldenrod}\Huge{ \texttt{ ...\ initialising\ symbiosis\ ... \}}}}\
 $$
 
-temp: 
-
-${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
+temp: ${{\color{Goldenrod}\small{ \texttt{ Snippet \}}}}\$
 
 ## hints
 - :monkey: dealing with digging into html/web since 56k modems
