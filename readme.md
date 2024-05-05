@@ -3,7 +3,7 @@
 <p align="center">
  <img src='mando-grogu-init.gif' alt='init' style='width:100vW'/>
  
- $${\color{red}test}$$
+ $${color{red}test}$$
 </p>
  
 ## hints
