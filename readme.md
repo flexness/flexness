@@ -15,6 +15,7 @@ $$
 - :honey_pot: mechanical keyboard enthusiast
 - 💾 dedicated gamer since doom 1
 - :cat2: are my cryptonite
+- :snowflake: jack of all trades
 
 ## knowledge/xp
 | Segment    | Indicator | Synergy/Keywords |
