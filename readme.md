@@ -5,7 +5,7 @@
 </p>
 
 $$
-{{\color{Goldenrod}\Huge{ \texttt{ ...\ initialising\ symbiosis\ ... \}}}}\
+{{\color{Goldenrod}\Huge{ \texttt{ ...\ initializing\ symbiosis\ ... \}}}}\
 $$
 
 ## hints
