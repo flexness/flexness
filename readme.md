@@ -43,7 +43,10 @@ $$
 
 ## core env
 - win11 + winget
-- 
+- nodejs, docker, python, vscode, atom
+- obsidian
+- figma
+- chrome, arc, thunderbird
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
