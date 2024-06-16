@@ -43,7 +43,7 @@ $$
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
 ## core env
-- win11 + winget
+- win11 + winget + WSL + OpenSSH
 - nodejs, docker, python, vscode, atom
 - obsidian
 - figma
