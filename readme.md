@@ -47,6 +47,7 @@ $$
 - obsidian
 - figma
 - chrome, arc, thunderbird
+- https://browsersync.io/
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
