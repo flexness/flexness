@@ -24,7 +24,7 @@ $$
 | CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
 | UI Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, FontAwesome |
 | JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, Express, Vue, jQuery |
-| PHP    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress |
+| PHP    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress |
 | Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja |
 | Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | MySQL, SQLite  |
 | CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, Tina |
