@@ -1,4 +1,4 @@
-# arth engine
+# earth engine
 
 ## keywords
 - bands
