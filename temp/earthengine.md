@@ -5,13 +5,13 @@
 - collections
 - geometry (polygons,lines, points, ..)
 - masks?
+- map
 - layer
 - imagecollections / image
 - filter
 - visualization
 
 ## example procedure
-
 - `ee.ImageCollection` A collection of images, often used to work with satellite data over time.
   - `var collection = ee.ImageCollection('LANDSAT/LC08/C01/T1_SR');` crete var with dataset
   - `.filterDate` Method to filter images or features by date range.
@@ -26,25 +26,17 @@
 
 - `ee.Image` A single raster image, which can be composed of multiple bands.
 - `ee.FeatureCollection` A collection of features, each with a geometry and associated properties.
-- 
-## examples
 
+
+## examples
 
 
 ## Map functions
 - `Map.centerObject` Method to center the map on a specific object or geometry.
 - `Map.`, e.g.
   - `Map.centerObject(ee.Geometry.Point(-60.0, -3.0), 6);`
-  - `Map.addLayer(treeLoss, lossViz, 'Tree Cover Loss 2001-2022');`
-  - `Map.addLayer(fireComposite, fireViz, 'MODIS Fire Detections 2023');`
-
-// Add the tree cover loss layer to the map
-Map.addLayer(treeLoss, lossViz, 'Tree Cover Loss 2001-2022');
-
-// Add the fire composite layer to the map
-Map.addLayer(fireComposite, fireViz, 'MODIS Fire Detections 2023');
-- `ee.ImageCollection`
-- `ee.ImageCollection`
+  - `Map.addLayer(treeLoss, lossViz, 'Tree Cover Loss 2001-2022'); // Add the tree cover loss layer to the map`
+  - `Map.addLayer(fireComposite, fireViz, 'MODIS Fire Detections 2023'); // add fireComposite as layer to map`
 
 ## visualization params
 ```js
@@ -53,7 +45,10 @@ var lossViz = {
   max: 22,
   palette: ['red'] // Red for tree cover loss
 };
+
+Map.addLayer(treeLoss, lossViz, 'Tree Cover Loss 2001-2022');
 ```
+
 - `palette` Color scheme used to visualize single-band images.
 - `mask` Method to mask out certain pixels in an image.`
 - `merge` Color scheme used to visualize single-band images.
