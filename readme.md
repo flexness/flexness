@@ -38,7 +38,7 @@ $$
 *work in progress*
 
 ## current desktop
-![dekstop:lates](desk.png "desk")
+![dekstop:lates](desk-1.png "desktop")
 
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
