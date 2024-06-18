@@ -1,3 +1,66 @@
+# arth engine
+
+## keywords
+- bands
+- collections
+- geometry (polygons,lines, points, ..)
+- masks?
+- layer
+- imagecollections / image
+- filter
+- visualization
+
+## example procedure
+
+- `ee.ImageCollection` A collection of images, often used to work with satellite data over time.
+  - `var collection = ee.ImageCollection('LANDSAT/LC08/C01/T1_SR');` crete var with dataset
+  - `.filterDate` Method to filter images or features by date range.
+    - `var filteredCollection = collection.filterDate('2020-01-01', '2020-12-31');` apply filter / create var
+- `ee.Geometry` Represents geometric shapes (e.g., points, lines, polygons) used to define areas of interest.
+  - `var point = ee.Geometry.Point(-122.262, 37.8719);` crete a point var
+  - `Map.centerObject(ee.Geometry.Point(-122.262, 37.8719), 10)` center round point on map
+  - `.filterBounds` Method to filter images or features by spatial bounds (geometry).
+    - `var spatialFilteredCollection = filteredCollection.filterBounds(point);`
+  - `var medianImage = spatialFilteredCollection.median();`
+  - `.filterBounds` Method to filter images or features by spatial bounds (geometry).
+
+- `ee.Image` A single raster image, which can be composed of multiple bands.
+- `ee.FeatureCollection` A collection of features, each with a geometry and associated properties.
+- 
+## examples
+
+
+
+## Map functions
+- `Map.centerObject` Method to center the map on a specific object or geometry.
+- `Map.`, e.g.
+  - `Map.centerObject(ee.Geometry.Point(-60.0, -3.0), 6);`
+  - `Map.addLayer(treeLoss, lossViz, 'Tree Cover Loss 2001-2022');`
+  - `Map.addLayer(fireComposite, fireViz, 'MODIS Fire Detections 2023');`
+
+// Add the tree cover loss layer to the map
+Map.addLayer(treeLoss, lossViz, 'Tree Cover Loss 2001-2022');
+
+// Add the fire composite layer to the map
+Map.addLayer(fireComposite, fireViz, 'MODIS Fire Detections 2023');
+- `ee.ImageCollection`
+- `ee.ImageCollection`
+
+## visualization params
+```js
+var lossViz = {
+  min: 1,
+  max: 22,
+  palette: ['red'] // Red for tree cover loss
+};
+```
+- `palette` Color scheme used to visualize single-band images.
+- `mask` Method to mask out certain pixels in an image.`
+- `merge` Color scheme used to visualize single-band images.
+- `palette` Color scheme used to visualize single-band images.
+
+
+
 ```js
 // Load the MODIS fire collection (MOD14A1)
 var fireCollection = ee.ImageCollection('MODIS/006/MOD14A1')
