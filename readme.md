@@ -61,7 +61,7 @@ $$
 - **SCREEN1**: ASUS TUF VG249Q
 - **SCREEN2**: BenQ GL2580H
 - **KEYBOARD**: Ducky Mecha SF
-- **MOUSE**: Steelseries Aerox 3 WL
+- **MOUSE**: Logitech G Pro Wireless
 - **DESKMAT**: Corsair MM350 PRO
 - **HEADSET**: Corsair HS80 WL
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
