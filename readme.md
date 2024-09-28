@@ -44,7 +44,7 @@ $$
 
 ## core env
 - os-base: win11 + winget + WSL + OpenSSH + terminal
-- dev-base: nodejs, docker, python, vscode, atom, git
+- dev-base: nodejs, docker, python, vscode (theme: catppuccin macchiato), atom, git
 - tools: chrome/firefox/brave, thunderbird, filezilla, obsidian, figma, ashampoo audio recorder, screentogif
 
 ## current desk setup
