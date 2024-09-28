@@ -43,12 +43,9 @@ $$
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
 ## core env
-- win11 + winget + WSL + OpenSSH
-- nodejs, docker, python, vscode, atom
-- obsidian
-- figma
-- chrome, arc, thunderbird
-- https://browsersync.io/
+- os-base: win11 + winget + WSL + OpenSSH + terminal
+- dev-base: nodejs, docker, python, vscode, atom, git
+- tools: chrome/firefox/brave, thunderbird, filezilla, obsidian, figma, ashampoo audio recorder, screentogif
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
