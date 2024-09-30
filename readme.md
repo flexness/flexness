@@ -75,7 +75,7 @@ $$
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
 | CMD/Terminal   | ![](https://geps.dev/progress/40?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Rading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
+| Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Not giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
