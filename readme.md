@@ -45,7 +45,7 @@ $$
 ## core env
 - os-base: win11 + winget + WSL + OpenSSH + terminal
 - dev-base: nodejs, docker, python, vscode (theme: catppuccin macchiato), atom, git
-- tools: chrome/firefox/brave, thunderbird (theme: catppuccin macchiato), filezilla, obsidian, figma, ashampoo audio recorder, screentogif
+- tools: chrome/firefox/brave, thunderbird (theme: catppuccin macchiato), filezilla, obsidian, figma, ashampoo audio recorder, screentogif, SoundSwitch 
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
