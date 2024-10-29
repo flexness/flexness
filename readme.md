@@ -16,7 +16,7 @@ $$
 - 💾 dedicated gamer since doom 1
 - :cat2: are my cryptonite
 - :snowflake: jack of all trades
-- :vhs: cinephile & :headphones: addicted to hiphop
+- :movie_camera: cinephile & :headphones: addicted to hiphop
 
 ## knowledge / xp / traits
 | Segment    | Indicator | Synergy/Keywords |
