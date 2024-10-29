@@ -66,7 +66,7 @@ $$
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
 - **MONITOR-ARMS**: Arctic X1-3D
 
-## awesome tools / gh-repos
+## awesome tools / gh-repos / shoutout to
 - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [Catppuccin](https://github.com/catppuccin)
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
