@@ -79,3 +79,6 @@ $$
 - [Catppuccin](https://github.com/catppuccin)
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 - [obsidian](https://github.com/obsidianmd)
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+
+
