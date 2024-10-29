@@ -33,6 +33,7 @@ $$
 | Dev Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
 | SAP/ERP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IDP/IAS, BAS, Cloud Foundry |
 | XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
+| Misc    | ![](https://geps.dev/progress/?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | HUGO, Markdown |
 | Consumer Hardware    | ![](https://geps.dev/progress/90?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Linux    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
@@ -41,7 +42,6 @@ $$
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Not giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Misc    | ![](https://geps.dev/progress/?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | HUGO, Markdown |
 
 *work in progress*
 
