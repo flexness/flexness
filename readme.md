@@ -42,10 +42,12 @@ $$
 
 - OhMyPosh, btop4win, rainmeter (customized cantarell skin)
 
-## core env
+## core env / daily software
 - os-base: win11 + winget + WSL + OpenSSH + terminal
-- dev-base: nodejs, docker, python, vscode (theme: catppuccin macchiato), atom, git
-- tools: chrome/firefox/brave, thunderbird (theme: catppuccin macchiato), filezilla, obsidian, figma, ashampoo audio recorder, screentogif, SoundSwitch 
+- dev-base: nodejs, docker, python, vscode, atom, git
+- tools: chrome/firefox/brave, thunderbird, filezilla, obsidian, figma, ashampoo audio recorder, screentogif, SoundSwitch, WhatsApp, Telegram
+- customization: [Catppuccin](https://github.com/catppuccin) theme (macchiato) for vs code & thunderbird, [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh) with emodipt cmd/terminal, [windhawk](https://github.com/ramensoftware/windhawk) win11 customization tool (testing..)
+
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
@@ -63,6 +65,13 @@ $$
 - **HEADSET**: Corsair HS80 WL
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
 - **MONITOR-ARMS**: Arctic X1-3D
+
+## awesome tools / gh-repos
+- [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
+- [Catppuccin](https://github.com/catppuccin)
+- [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
+- [obsidian](https://github.com/obsidianmd)
+
 
 ## temp
 - :headphones: addicted to hiphop
