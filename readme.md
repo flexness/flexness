@@ -73,12 +73,9 @@ $$
 - [obsidian](https://github.com/obsidianmd)
 
 
-## temp
+## misc
 - :headphones: addicted to hiphop
 - :vhs: cinephile
-
-- xp
-
 | Segment    | Indicator | Synergy/Keywords |
 | ---------- | --------- | -------- |
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
