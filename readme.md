@@ -16,6 +16,7 @@ $$
 - 💾 dedicated gamer since doom 1
 - :cat2: are my cryptonite
 - :snowflake: jack of all trades
+- :vhs: cinephile & :headphones: addicted to hiphop
 
 ## knowledge / xp / traits
 | Segment    | Indicator | Synergy/Keywords |
@@ -29,7 +30,7 @@ $$
 | Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | MySQL, SQLite  |
 | CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, Tina |
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
-| Dev Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry (SAP BTP) |
+| Dev Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
 | SAP/ERP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IDP/IAS, BAS, Cloud Foundry |
 | XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
 | Consumer Hardware    | ![](https://geps.dev/progress/90?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
@@ -78,18 +79,3 @@ $$
 - [Catppuccin](https://github.com/catppuccin)
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 - [obsidian](https://github.com/obsidianmd)
-
-
-## misc
-- :headphones: addicted to hiphop
-- :vhs: cinephile
-  
-| Segment    | Indicator | Synergy/Keywords |
-| ---------- | --------- | -------- |
-| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Linux    | ![](https://geps.dev/progress/20?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
-| CMD/Terminal   | ![](https://geps.dev/progress/40?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Not giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
