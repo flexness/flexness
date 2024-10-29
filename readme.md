@@ -17,7 +17,7 @@ $$
 - :cat2: are my cryptonite
 - :snowflake: jack of all trades
 
-## knowledge/xp
+## knowledge / xp / traits
 | Segment    | Indicator | Synergy/Keywords |
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX, Jinja |
