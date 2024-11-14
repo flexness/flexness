@@ -76,6 +76,7 @@ $$
 
 ## awesome tools / gh-repos / shoutout to
 - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
+- [OhMyZsh](https://github.com/ohmyzsh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Catppuccin](https://github.com/catppuccin)
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 - [obsidian](https://github.com/obsidianmd)
