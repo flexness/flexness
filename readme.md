@@ -36,7 +36,7 @@ $$
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Linux    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
 | Shell/Terminal/CLI   | ![](https://geps.dev/progress/40?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | www |
+| Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Writing docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | markdown |
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Excalidraw/DrawIO |
 | Consumer Hardware    | ![](https://geps.dev/progress/90?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
