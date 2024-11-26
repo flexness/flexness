@@ -54,8 +54,11 @@ $$
 - os-base: win11 + winget + WSL + OpenSSH + terminal
 - dev-base: nodejs, docker, python, vscode, atom, git
 - tools: chrome/firefox/brave, thunderbird, filezilla, obsidian, figma, ashampoo audio recorder, screentogif, SoundSwitch, WhatsApp, Telegram
-- customization: [Catppuccin](https://github.com/catppuccin) theme (macchiato) for vs code & thunderbird, [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh) with emodipt cmd/terminal, [windhawk](https://github.com/ramensoftware/windhawk) win11 customization tool (testing..)
-
+- customization:
+ 	- [Catppuccin](https://github.com/catppuccin) theme (macchiato) for obsidian, vs code & thunderbird
+  - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh) with powerlevel10k_lean theme cmd/terminal
+  - (testing) [windhawk](https://github.com/ramensoftware/windhawk) win11 customization tool 
+- 
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
@@ -77,9 +80,9 @@ $$
 ## awesome tools / gh-repos / shoutout to
 - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [OhMyZsh](https://github.com/ohmyzsh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
-- [Catppuccin](https://github.com/catppuccin)
+- [Catppuccin theme-ecosystem](https://github.com/catppuccin)
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 - [obsidian](https://github.com/obsidianmd)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
-
+- [Dracula theme-ecosystem](https://github.com/dracula/dracula-theme)
 
