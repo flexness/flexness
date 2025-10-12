@@ -61,12 +61,13 @@ $$
 - 
 
 ## current desk setup
-- **CPU**: AMD Ryzen 5 3600 + Arctic 240mm AiO
-- **MB**: Gigabyte Aorus B450 Pro
-- **RAM**: Corsair Vengeance DDR4 3200, 2x8
+- **CPU**: AMD Ryzen 5 7600X
+- **MB**: ASUS ROG STRIX B650E-F GAMING WIFI
+- **RAM**: Corsair Vengeance RGB 32GB DDR5-6000 CL30
 - **GPU**: XFX 6600 XT SWFT
-- **M2**: WD SN750, Samsung 990 Pro
-- **PSU**: BQ Pure Power 11 CM 650W
+- **M2**: KINGSTON FURY Renegade, Samsung 990 Pro
+- **PSU**: BeQuiet Straight Power 11 750W
+- **AiO**: Corsair iCUE Link H100i LCD
 - **CASE**: CM Qube 500 
 - **SCREEN1**: ASUS TUF VG249Q
 - **SCREEN2**: BenQ GL2580H
