@@ -10,9 +10,9 @@ $$
 
 ## hints
 - :snowflake: jack of all trades
-- :monkey: digging into html/web [..] since macromedia dreamweaver
+- :monkey: digging into the web [..] since macromedia dreamweaver
 - :hammer: crafting pc-builds since geforce4 ti 4200
-- :art: customizing windows since win98 and litestep 
+- :art: customizing fan since litestep shell
 - :honey_pot: mechanical keyboard enthusiast
 - 💾 dedicated gamer since doom 1
 - :movie_camera: cinephile & :headphones: addicted to hiphop
@@ -31,13 +31,13 @@ $$
 | CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS |
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
 | Dev Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
-| SAP/ERP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IAS, BAS, Cloud Foundry |
+| SAP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IAS, BAS, Cloud Foundry |
 | XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
-| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Linux    | ![](https://geps.dev/progress/30?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | - |
-| Shell/Terminal/CLI   | ![](https://geps.dev/progress/40?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
+| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Main OS since forever |
+| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS+Self-Hosting (Custom Nginx + ModSecurity, Docker/-compose incl. various Services, ..)   |
+| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | BTP CLI, CF CLI |
 | Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
-| Writing docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | markdown |
+| Writing docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Markdown |
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Excalidraw/DrawIO |
 | Consumer Hardware    | ![](https://geps.dev/progress/90?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Giving a fuc*  | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
@@ -69,21 +69,20 @@ $$
 - **PSU**: BeQuiet Straight Power 11 750W
 - **AiO**: Corsair iCUE Link H100i LCD
 - **CASE**: CM Qube 500 
-- **SCREEN1**: ASUS TUF VG249Q
-- **SCREEN2**: BenQ GL2580H
+- **SCREENS**: ASUS TUF VG249Q, BenQ GL2580H
+- **MONITOR-ARMS**: Arctic X1-3D
 - **KEYBOARD**: Ducky Mecha SF
 - **MOUSE**: Logitech G Pro Wireless
 - **DESKMAT**: Corsair MM350 PRO
 - **HEADSET**: Corsair HS80 WL
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
-- **MONITOR-ARMS**: Arctic X1-3D
 
 ## awesome tools / gh-repos / shoutout to
 - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [OhMyZsh](https://github.com/ohmyzsh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- [Fzf](https://github.com/junegunn/fzf) + [PSFzf](https://github.com/kelleyma49/PSFzf)
 - [Catppuccin theme-ecosystem](https://github.com/catppuccin)
 - [SoundSwitch](https://github.com/Belphemur/SoundSwitch)
 - [obsidian](https://github.com/obsidianmd)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [Dracula theme-ecosystem](https://github.com/dracula/dracula-theme)
-
