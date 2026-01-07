@@ -86,3 +86,4 @@ $$
 - [obsidian](https://github.com/obsidianmd)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [Dracula theme-ecosystem](https://github.com/dracula/dracula-theme)
+- [ImageMagick](https://github.com/ImageMagick/ImageMagick) 
