@@ -23,7 +23,7 @@ $$
 | ---------- | --------- | -------- |
 | HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX, Jinja, Pug/Jade |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
-| JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | jQuery, NodeJS, Pug/Jade |
+| JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, React, Pug/Jade, jQuery |
 | PHP    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress |
 | Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja, Celery |
 | Design & Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, Penpot, FontAwesome, Material Design |
@@ -34,8 +34,8 @@ $$
 | SAP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IAS, BAS, Cloud Foundry |
 | XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Main OS since forever ;( |
-| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS and Self-Hosting (Custom Nginx + ModSecurity, Docker for N8N, Ghost, Grafana, Penpot)   |
-| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | SSH, BTP CLI, CF CLI |
+| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS/Self-Hosting: Custom Nginx with ModSecurity, Grafana, Docker with N8N/Ghost/Penpot, )   |
+| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | PowerShell, SSH, ZSH, OhMyPosh, BTP CLI, CF CLI |
 | Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Writing docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Markdown |
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Excalidraw/DrawIO |
