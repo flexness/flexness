@@ -21,21 +21,21 @@ $$
 ## knowledge / xp / traits
 | Segment    | Indicator | Synergy/Keywords |
 | ---------- | --------- | -------- |
-| HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX, Jinja |
+| HTML  | ![](https://geps.dev/progress/80?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | HTMX, Jinja, Pug/Jade |
 | CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
-| JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, Express, Vue, jQuery |
+| JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | jQuery, NodeJS, Pug/Jade |
 | PHP    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress |
-| Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja |
-| Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, FontAwesome, Material Design |
-| Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | MySQL, SQLite  |
-| CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS |
+| Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja, Celery |
+| Design & Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, Penpot, FontAwesome, Material Design |
+| Backend/Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Redis, MySQL, SQLite  |
+| CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS, Ghost |
 | DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
 | Dev Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
 | SAP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IAS, BAS, Cloud Foundry |
 | XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
-| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Main OS since forever |
-| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS+Self-Hosting (Custom Nginx + ModSecurity, Docker/-compose incl. various Services, ..)   |
-| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | BTP CLI, CF CLI |
+| Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Main OS since forever ;( |
+| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS and Self-Hosting (Custom Nginx + ModSecurity, Docker for N8N, Ghost, Grafana, Penpot)   |
+| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | SSH, BTP CLI, CF CLI |
 | Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Writing docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Markdown |
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Excalidraw/DrawIO |
@@ -77,7 +77,7 @@ $$
 - **HEADSET**: Corsair HS80 WL
 - **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
 
-## awesome tools / gh-repos / shoutout to
+## gh favs
 - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
 - [OhMyZsh](https://github.com/ohmyzsh) + [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 - [Fzf](https://github.com/junegunn/fzf) + [PSFzf](https://github.com/kelleyma49/PSFzf)
