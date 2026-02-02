@@ -58,22 +58,25 @@ $$
   - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh) with powerlevel10k_lean theme cmd/terminal
 
 
-## current desk setup
-- **CPU**: AMD Ryzen 5 7600X
-- **MB**: ASUS ROG STRIX B650E-F GAMING WIFI
-- **RAM**: Corsair Vengeance RGB 32GB DDR5-6000 CL30
-- **GPU**: XFX 6600 XT SWFT
-- **M2**: KINGSTON FURY Renegade, Samsung 990 Pro
-- **PSU**: BeQuiet Straight Power 11 750W
-- **AiO**: Corsair iCUE Link H100i LCD
-- **CASE**: CM Qube 500 
-- **SCREENS**: ASUS TUF VG249Q, BenQ GL2580H
-- **MONITOR-ARMS**: Arctic X1-3D
-- **KEYBOARD**: Ducky Mecha SF
-- **MOUSE**: Logitech G Pro Wireless
-- **DESKMAT**: Corsair MM350 PRO
-- **HEADSET**: Corsair HS80 WL
-- **SPEAKER**: Teufel One Soundbar + T6 Subwoofer
+## system specs
+| Component       | Model / Specs |
+|-----------------|---------------|
+| CPU             | AMD Ryzen 5 7600X |
+| Mainboard       | ASUS ROG STRIX B650E-F GAMING WIFI |
+| RAM             | Corsair Vengeance RGB 32GB DDR5-6000 CL30 |
+| GPU             | XFX 6600 XT SWFT |
+| M.2 SSD         | KINGSTON FURY Renegade, Samsung 990 Pro |
+| PSU             | BeQuiet Straight Power 11 750W |
+| AiO Cooler      | Corsair iCUE Link H100i LCD |
+| Case            | CM Qube 500 |
+| Screens         | ASUS TUF VG249Q, BenQ GL2580H |
+| Monitor Arms    | Arctic X1-3D |
+| Keyboard        | Ducky Mecha SF |
+| Mouse           | Logitech G Pro Wireless |
+| Deskmat         | Corsair MM350 PRO |
+| Headset         | Corsair HS80 WL |
+| Speaker         | Teufel One Soundbar + T6 Subwoofer |
+
 
 ## gh favs
 - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh)
