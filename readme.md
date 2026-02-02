@@ -25,17 +25,16 @@ $$
 | CSS | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)     | SASS/SCSS, Bootstrap, Tailwind |
 | JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, React, Pug/Jade, jQuery |
 | PHP    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress |
-| Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja, Celery |
+| Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja, SQLAlchemy, Celery |
 | Design & Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, Penpot, FontAwesome, Material Design |
-| Backend/Databases/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Redis, MySQL, SQLite  |
-| CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS, Ghost |
-| DevOps    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render |
-| Dev Ecosystems    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Cloudogu, Cloud Foundry |
-| SAP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, IAS, BAS, Cloud Foundry |
+| Backend/DBs/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Redis, MySQL, SQLite, SQLAlchemy  |
+| CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS, Ghost |
+| DevOps / Platforms     | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render, Cloudogu, Cloud Foundry |
+| SAP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, CIS/IAS, BAS, IS, Cloud Foundry |
 | XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Main OS since forever ;( |
-| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS/Self-Hosting: Custom Nginx with ModSecurity, Grafana, Docker with N8N/Ghost/Penpot, )   |
-| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | PowerShell, SSH, ZSH, OhMyPosh, BTP CLI, CF CLI |
+| Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS/Self-Hosting: Custom Nginx with ModSecurity, Grafana, Docker with N8N/Ghost/Penpot/misc.   |
+| Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | PowerShell, SSH, ZSH, OhMyPosh, Linux, BTP CLI, CF CLI |
 | Reading docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | - |
 | Writing docs   | ![](https://geps.dev/progress/100?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Markdown |
 | UML/modelling   | ![](https://geps.dev/progress/50?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Excalidraw/DrawIO |
@@ -55,10 +54,9 @@ $$
 - dev-base: nodejs, docker, python, vscode, atom, git
 - tools: chrome/firefox/brave, thunderbird, filezilla, obsidian, figma, ashampoo audio recorder, screentogif, SoundSwitch, WhatsApp, Telegram
 - customization:
- 	- [Catppuccin](https://github.com/catppuccin) theme (macchiato) for obsidian, vs code & thunderbird
+ 	- [Catppuccin](https://github.com/catppuccin) theme for obsidian, vs code & thunderbird
   - [OhMyPosh](https://github.com/JanDeDobbeleer/oh-my-posh) with powerlevel10k_lean theme cmd/terminal
-  - (testing) [windhawk](https://github.com/ramensoftware/windhawk) win11 customization tool 
-- 
+
 
 ## current desk setup
 - **CPU**: AMD Ryzen 5 7600X
@@ -86,4 +84,4 @@ $$
 - [obsidian](https://github.com/obsidianmd)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [Dracula theme-ecosystem](https://github.com/dracula/dracula-theme)
-- [ImageMagick](https://github.com/ImageMagick/ImageMagick) 
+- [ImageMagick](https://github.com/ImageMagick/ImageMagick)
