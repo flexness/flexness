@@ -31,7 +31,7 @@ $$
 | CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS, Ghost |
 | DevOps / Platforms     | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render, Cloudogu, Cloud Foundry |
 | SAP    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | BTP, CIS/IAS, BAS, IS, Cloud Foundry |
-| XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung |
+| XML    | ![](https://geps.dev/progress/70?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | XRechnung, SOAP, SAML |
 | Windows    | ![](https://geps.dev/progress/80?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | Main OS since forever ;( |
 | Linux    | ![](https://geps.dev/progress/60?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | VPS/Self-Hosting: Custom Nginx with ModSecurity, Grafana, Docker with N8N/Ghost/Penpot/misc.   |
 | Shell/Terminal/CLI   | ![](https://geps.dev/progress/60?dangerColor=B4C424?dangerColor=097969&warningColor=097969&successColor=00A36C)    | PowerShell, SSH, ZSH, OhMyPosh, Linux, BTP CLI, CF CLI |
