@@ -26,7 +26,7 @@ $$
 | JS    | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | NodeJS, React, Pug/Jade, jQuery |
 | PHP    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress |
 | Python    | ![](https://geps.dev/progress/30?dangerColor=5F8575&warningColor=097969&successColor=00A36C)    | Flask, Jinja, SQLAlchemy, Celery |
-| Design & Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, Penpot, FontAwesome, Material Design |
+| Frontend/Design/Prototyping    | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Figma, Penpot, FontAwesome, Material Design, Flowbite |
 | Backend/DBs/ORMs    | ![](https://geps.dev/progress/40?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Redis, MySQL, SQLite, SQLAlchemy  |
 | CMS (+ headless)   | ![](https://geps.dev/progress/70?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Wordpress, Kirby, Storyblok, TinaCMS, Ghost |
 | DevOps / Platforms     | ![](https://geps.dev/progress/50?dangerColor=B4C424&warningColor=097969&successColor=00A36C)    | Git, Docker, Vercel, Render, Cloudogu, Cloud Foundry |
