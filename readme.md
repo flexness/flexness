@@ -9,14 +9,14 @@ $$
 $$
 
 ## hints
-- :snowflake: jack of all trades
-- :monkey: digging into the web [..] since macromedia dreamweaver
-- :hammer: crafting pc-builds since geforce4 ti 4200
-- :art: customizing fan since litestep shell
-- :honey_pot: mechanical keyboard enthusiast
-- 💾 dedicated gamer since doom 1
-- :movie_camera: cinephile & :headphones: addicted to hiphop
-- :cat2: are my cryptonite
+:snowflake: jack of all trades
+:monkey: digging into the web [..] since macromedia dreamweaver
+:hammer: crafting pc-builds since geforce4 ti 4200
+:art: customizing fan since litestep shell
+:honey_pot: mechanical keyboard enthusiast
+💾 dedicated gamer since doom 1
+:movie_camera: cinephile & :headphones: addicted to hiphop
+:cat2: are my cryptonite
 
 ## knowledge / xp / traits
 | Segment    | Indicator | Synergy/Keywords |
